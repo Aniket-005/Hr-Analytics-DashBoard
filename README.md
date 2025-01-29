@@ -2,7 +2,7 @@
 
 <img src="HR_Dashboard.png.png" alt="DashBoard Image" width="1433">
 
-# **Ecommerce Sales Analysis Dashboard**
+# **HR Attrition Data Analysis Dashboard**
 
 The "Ecommerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
 
